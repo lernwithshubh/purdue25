@@ -1,4 +1,4 @@
-This is testing puprose.
+This is testing purpose.///
 content from defect.
 changes from feature
 These are the changes from remote repo
